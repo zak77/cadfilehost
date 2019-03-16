@@ -1,0 +1,1256 @@
+edge exported
+edgestart 
+	type naked
+			vertex -8.85600 44.57930 46.44270
+			vertex -13.26100 4.85730 48.10330
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -13.26100 4.85730 48.10330
+			vertex -24.91300 6.03990 45.48570
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -3.54600 -23.77410 105.62790
+			vertex -6.70900 -18.81360 107.01580
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -6.70900 -18.81360 107.01580
+			vertex -9.96600 -14.06480 108.00690
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 20.79000 -48.51190 111.29700
+			vertex 23.16100 -54.11170 107.96860
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 26.87400 -64.67010 100.57690
+			vertex 14.82400 -63.17180 84.68530
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 23.16100 -54.11170 107.96860
+			vertex 25.20500 -59.52530 104.38360
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 25.20500 -59.52530 104.38360
+			vertex 26.87400 -64.67010 100.57690
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 14.82400 -63.17180 84.68530
+			vertex 13.15400 -58.02700 88.49200
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 2.08400 -15.56310 123.89850
+			vertex 5.34200 -20.31190 122.90740
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 5.34200 -20.31190 122.90740
+			vertex 8.50400 -25.27250 121.51950
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 8.50400 -25.27250 121.51950
+			vertex 10.79500 -29.08920 120.24140
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 10.79500 -29.08920 120.24140
+			vertex 13.00200 -32.95900 118.77630
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 13.00200 -32.95900 118.77630
+			vertex 17.12300 -40.76280 115.33780
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -13.28000 -9.60790 108.55920
+			vertex -1.23000 -11.10620 124.45080
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -1.23000 -11.10620 124.45080
+			vertex 2.08400 -15.56310 123.89850
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -9.96600 -14.06480 108.00690
+			vertex -13.28000 -9.60790 108.55920
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 13.15400 -58.02700 88.49200
+			vertex 11.11100 -52.61340 92.07700
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 11.11100 -52.61340 92.07700
+			vertex 8.73900 -47.01360 95.40540
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 8.73900 -47.01360 95.40540
+			vertex 5.07300 -39.26450 99.44620
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -1.25600 -27.59090 104.34980
+			vertex -3.54600 -23.77410 105.62790
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 17.12300 -40.76280 115.33780
+			vertex 20.79000 -48.51190 111.29700
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 5.07300 -39.26450 99.44620
+			vertex 0.95100 -31.46060 102.88470
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 0.95100 -31.46060 102.88470
+			vertex -1.25600 -27.59090 104.34980
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 38.33600 33.34290 9.98590
+			vertex 39.40700 39.58720 10.05850
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 44.69700 78.26170 10.42550
+			vertex 45.98800 75.70810 10.50340
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 33.71900 78.14020 9.74160
+			vertex 44.69700 78.26170 10.42550
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 39.35200 59.52570 10.07440
+			vertex 38.12300 66.28100 10.00440
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 39.40700 39.58720 10.05850
+			vertex 39.94100 46.02880 10.09800
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 39.94100 46.02880 10.09800
+			vertex 39.94600 52.52810 10.10470
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 50.91900 46.15030 10.78190
+			vertex 50.38500 39.70860 10.74240
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 36.15300 72.82810 9.88800
+			vertex 35.01000 75.58670 9.81950
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 35.01000 75.58670 9.81950
+			vertex 33.71900 78.14020 9.74160
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 45.98800 75.70810 10.50340
+			vertex 47.13100 72.94960 10.57190
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 47.13100 72.94960 10.57190
+			vertex 48.20400 69.75620 10.63570
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 47.69900 27.58410 10.56340
+			vertex 46.68600 24.84150 10.49770
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 46.68600 24.84150 10.49770
+			vertex 45.53500 22.26750 10.42350
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 45.53500 22.26750 10.42350
+			vertex 34.55700 22.14610 9.73960
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 34.55700 22.14610 9.73960
+			vertex 35.70800 24.72000 9.81380
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 35.70800 24.72000 9.81380
+			vertex 36.72100 27.46270 9.87960
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 36.72100 27.46270 9.87960
+			vertex 38.33600 33.34290 9.98590
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 50.33000 59.64710 10.75830
+			vertex 50.92400 52.64960 10.78850
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 50.92400 52.64960 10.78850
+			vertex 50.91900 46.15030 10.78190
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 39.94600 52.52810 10.10470
+			vertex 39.35200 59.52570 10.07440
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 49.10100 66.40240 10.68830
+			vertex 50.33000 59.64710 10.75830
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 49.31400 33.46430 10.66970
+			vertex 47.69900 27.58410 10.56340
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 50.38500 39.70860 10.74240
+			vertex 49.31400 33.46430 10.66970
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 37.22600 69.63480 9.95180
+			vertex 36.15300 72.82810 9.88800
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 38.12300 66.28100 10.00440
+			vertex 37.22600 69.63480 9.95180
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 48.20400 69.75620 10.63570
+			vertex 49.10100 66.40240 10.68830
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 4.18200 75.08880 5.81910
+			vertex 5.42500 77.70720 5.94360
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 3.20000 26.78860 6.12030
+			vertex 2.25500 29.68890 5.98340
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 0.59800 62.42890 5.50430
+			vertex 2.04000 68.94370 5.61870
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 0.79300 35.85050 5.75710
+			vertex -0.10200 42.33230 5.59510
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -0.10200 42.33230 5.59510
+			vertex -0.43900 48.96700 5.49790
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -13.55400 57.03440 3.87610
+			vertex -13.77000 50.39160 3.90790
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 6.81300 80.09410 6.08720
+			vertex -6.51700 81.51870 4.49730
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -6.51700 81.51870 4.49730
+			vertex -7.90600 79.13180 4.35360
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -7.90600 79.13180 4.35360
+			vertex -9.14800 76.51340 4.22910
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 5.42500 77.70720 5.94360
+			vertex 6.81300 80.09410 6.08720
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 3.02700 72.10460 5.70820
+			vertex 4.18200 75.08880 5.81910
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 2.04000 68.94370 5.61870
+			vertex 3.02700 72.10460 5.70820
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -12.73200 63.85350 3.91430
+			vertex -13.55400 57.03440 3.87610
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -11.29000 70.36830 4.02870
+			vertex -12.73200 63.85350 3.91430
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 2.25500 29.68890 5.98340
+			vertex 0.79300 35.85050 5.75710
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -11.07500 31.11350 4.39340
+			vertex -10.13000 28.21320 4.53040
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -12.53700 37.27510 4.16720
+			vertex -11.07500 31.11350 4.39340
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -0.43900 48.96700 5.49790
+			vertex -0.22300 55.60980 5.46610
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -0.22300 55.60980 5.46610
+			vertex 0.59800 62.42890 5.50430
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -9.14800 76.51340 4.22910
+			vertex -10.30300 73.52920 4.11820
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -10.30300 73.52920 4.11820
+			vertex -11.29000 70.36830 4.02870
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex 4.29000 24.04530 6.27300
+			vertex 3.20000 26.78860 6.12030
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -9.04000 25.46990 4.68300
+			vertex 4.29000 24.04530 6.27300
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -10.13000 28.21320 4.53040
+			vertex -9.04000 25.46990 4.68300
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -13.77000 50.39160 3.90790
+			vertex -13.43300 43.75690 4.00520
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -13.43300 43.75690 4.00520
+			vertex -12.53700 37.27510 4.16720
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -33.18800 -32.65740 72.11060
+			vertex -30.21800 -39.38520 68.48690
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -28.52700 -56.49920 52.53600
+			vertex -28.13600 -57.05780 52.40090
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -28.13600 -57.05780 52.40090
+			vertex -27.64500 -57.54760 52.45200
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -27.64500 -57.54760 52.45200
+			vertex -27.10500 -57.91860 52.68410
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -40.58100 -26.05260 70.52920
+			vertex -40.66700 -25.52850 70.97780
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -40.66700 -25.52850 70.97780
+			vertex -40.91900 -24.95810 71.28530
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -26.18600 -55.70930 56.04870
+			vertex -26.67700 -55.21950 55.99760
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -43.26000 -25.74790 67.77270
+			vertex -42.76900 -26.23770 67.82380
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -42.76900 -26.23770 67.82380
+			vertex -42.22900 -26.60870 68.05590
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -42.22900 -26.60870 68.05590
+			vertex -41.69500 -26.82300 68.44530
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -23.14400 -52.90230 62.47620
+			vertex -19.14700 -59.46240 60.20560
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -25.79500 -56.26800 55.91360
+			vertex -26.18600 -55.70930 56.04870
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -14.91900 -65.72130 58.51560
+			vertex -24.95600 -65.35770 47.37400
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -24.95600 -65.35770 47.37400
+			vertex -29.18400 -59.09880 49.06390
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -27.10500 -57.91860 52.68410
+			vertex -26.57100 -58.13290 53.07350
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -26.57100 -58.13290 53.07350
+			vertex -26.09900 -58.16890 53.57690
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -26.09900 -58.16890 53.57690
+			vertex -25.73500 -58.02500 54.14560
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -25.73500 -58.02500 54.14560
+			vertex -25.45700 -57.36250 55.15740
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -25.45700 -57.36250 55.15740
+			vertex -25.54300 -56.83840 55.60600
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -25.54300 -56.83840 55.60600
+			vertex -25.79500 -56.26800 55.91360
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -19.14700 -59.46240 60.20560
+			vertex -14.91900 -65.72130 58.51560
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -26.67700 -55.21950 55.99760
+			vertex -27.21700 -54.84850 55.76550
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -27.21700 -54.84850 55.76550
+			vertex -27.75100 -54.63430 55.37610
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -27.75100 -54.63430 55.37610
+			vertex -28.22200 -54.59820 54.87270
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -28.22200 -54.59820 54.87270
+			vertex -28.58700 -54.74220 54.30400
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -28.58700 -54.74220 54.30400
+			vertex -28.86500 -55.40460 53.29210
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -40.25400 -39.02160 57.34530
+			vertex -43.22500 -32.29380 60.96900
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -26.85200 -46.17080 65.25700
+			vertex -23.14400 -52.90230 62.47620
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -41.69500 -26.82300 68.44530
+			vertex -41.22300 -26.85900 68.94870
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -41.22300 -26.85900 68.94870
+			vertex -40.85900 -26.71510 69.51730
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -40.85900 -26.71510 69.51730
+			vertex -40.58100 -26.05260 70.52920
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -30.21800 -39.38520 68.48690
+			vertex -26.85200 -46.17080 65.25700
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -48.45700 -16.76150 71.20170
+			vertex -38.42000 -17.12510 82.34330
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -43.34600 -23.28840 70.24450
+			vertex -43.71100 -23.43230 69.67580
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -43.71100 -23.43230 69.67580
+			vertex -43.98900 -24.09470 68.66390
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -43.98900 -24.09470 68.66390
+			vertex -43.90200 -24.61880 68.21530
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -43.90200 -24.61880 68.21530
+			vertex -43.65100 -25.18930 67.90780
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -47.74000 -19.47590 69.18670
+			vertex -48.45700 -16.76150 71.20170
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -38.42000 -17.12510 82.34330
+			vertex -37.70300 -19.83950 80.32840
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -41.31000 -24.39940 71.42040
+			vertex -41.80100 -23.90960 71.36930
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -41.80100 -23.90960 71.36930
+			vertex -42.34100 -23.53860 71.13720
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -42.34100 -23.53860 71.13720
+			vertex -42.87500 -23.32440 70.74780
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -42.87500 -23.32440 70.74780
+			vertex -43.34600 -23.28840 70.24450
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -40.91900 -24.95810 71.28530
+			vertex -41.31000 -24.39940 71.42040
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -37.70300 -19.83950 80.32840
+			vertex -35.70500 -26.10110 76.07560
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -35.70500 -26.10110 76.07560
+			vertex -33.18800 -32.65740 72.11060
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -45.74200 -25.73750 64.93390
+			vertex -47.74000 -19.47590 69.18670
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -43.22500 -32.29380 60.96900
+			vertex -45.74200 -25.73750 64.93390
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -43.65100 -25.18930 67.90780
+			vertex -43.26000 -25.74790 67.77270
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -29.18400 -59.09880 49.06390
+			vertex -33.18000 -52.53860 51.33450
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -33.18000 -52.53860 51.33450
+			vertex -36.88800 -45.80720 54.11540
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -28.77800 -55.92870 52.84350
+			vertex -28.52700 -56.49920 52.53600
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -36.88800 -45.80720 54.11540
+			vertex -40.25400 -39.02160 57.34530
+		color 0xff0000
+edgeend 
+edgestart 
+	type naked
+			vertex -28.86500 -55.40460 53.29210
+			vertex -28.77800 -55.92870 52.84350
+		color 0xff0000
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 2.06800 -21.56210 116.57360
+			vertex 2.65600 -21.48570 117.53070
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 21.35500 -55.97690 103.04220
+			vertex 20.77800 -55.05100 103.32220
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 18.60100 -53.96680 101.44000
+			vertex 18.37900 -54.49590 100.47100
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 1.30300 -18.42700 119.26450
+			vertex 0.50600 -18.03020 118.57550
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 0.50600 -18.03020 118.57550
+			vertex -0.08200 -18.10650 117.61840
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -0.08200 -18.10650 117.61840
+			vertex -0.30300 -18.63560 116.64950
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -0.30300 -18.63560 116.64950
+			vertex -0.09800 -19.47570 115.92840
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 18.58400 -55.33600 99.75000
+			vertex 19.16100 -56.26190 99.47000
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 18.37900 -54.49590 100.47100
+			vertex 18.58400 -55.33600 99.75000
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 20.77800 -55.05100 103.32220
+			vertex 19.98600 -54.28730 103.08610
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 19.98600 -54.28730 103.08610
+			vertex 19.18800 -53.89050 102.39710
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 19.18800 -53.89050 102.39710
+			vertex 18.60100 -53.96680 101.44000
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 19.16100 -56.26190 99.47000
+			vertex 19.95300 -57.02560 99.70620
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 19.95300 -57.02560 99.70620
+			vertex 20.75100 -57.42240 100.39520
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 20.75100 -57.42240 100.39520
+			vertex 21.33800 -57.34600 101.35230
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -0.09800 -19.47570 115.92840
+			vertex 0.47800 -20.40160 115.64850
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 2.67200 -20.11660 119.22070
+			vertex 2.09600 -19.19070 119.50060
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 2.09600 -19.19070 119.50060
+			vertex 1.30300 -18.42700 119.26450
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 21.56000 -56.81690 102.32120
+			vertex 21.35500 -55.97690 103.04220
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 21.33800 -57.34600 101.35230
+			vertex 21.56000 -56.81690 102.32120
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 2.87700 -20.95660 118.49960
+			vertex 2.67200 -20.11660 119.22070
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 2.65600 -21.48570 117.53070
+			vertex 2.87700 -20.95660 118.49960
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 1.27100 -21.16520 115.88460
+			vertex 2.06800 -21.56210 116.57360
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 0.47800 -20.40160 115.64850
+			vertex 1.27100 -21.16520 115.88460
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -24.91300 6.03990 45.48570
+			vertex -20.50800 45.76190 43.82510
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -20.50800 45.76190 43.82510
+			vertex -8.85600 44.57930 46.44270
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -5.15800 69.67430 4.76050
+			vertex -6.20100 70.07880 4.63350
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -4.45600 68.79870 4.85110
+			vertex -5.15800 69.67430 4.76050
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -7.30600 69.90380 4.50430
+			vertex -8.17600 69.19620 4.40740
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -4.66600 33.49630 5.13140
+			vertex -4.26300 34.54690 5.17000
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -5.53600 32.78860 5.03450
+			vertex -4.66600 33.49630 5.13140
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -6.64100 32.61370 4.90530
+			vertex -5.53600 32.78860 5.03450
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -7.68400 33.01820 4.77840
+			vertex -6.64100 32.61370 4.90530
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -6.18000 36.93920 4.92240
+			vertex -7.28500 36.76420 4.79320
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -5.13700 36.53470 5.04930
+			vertex -6.18000 36.93920 4.92240
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -5.55700 65.92820 4.74570
+			vertex -4.68700 66.63590 4.84260
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -4.68700 66.63590 4.84260
+			vertex -4.28400 67.68650 4.88110
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -4.28400 67.68650 4.88110
+			vertex -4.45600 68.79870 4.85110
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -8.17600 69.19620 4.40740
+			vertex -8.57900 68.14550 4.36880
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -8.57900 68.14550 4.36880
+			vertex -8.40600 67.03340 4.39890
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -8.40600 67.03340 4.39890
+			vertex -7.70500 66.15780 4.48950
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -7.70500 66.15780 4.48950
+			vertex -6.66200 65.75330 4.61640
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -6.66200 65.75330 4.61640
+			vertex -5.55700 65.92820 4.74570
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -8.15500 36.05660 4.69630
+			vertex -8.55800 35.00590 4.65770
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -8.55800 35.00590 4.65770
+			vertex -8.38600 33.89380 4.68770
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -8.38600 33.89380 4.68770
+			vertex -7.68400 33.01820 4.77840
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -6.20100 70.07880 4.63350
+			vertex -7.30600 69.90380 4.50430
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -4.26300 34.54690 5.17000
+			vertex -4.43600 35.65900 5.14000
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -4.43600 35.65900 5.14000
+			vertex -5.13700 36.53470 5.04930
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex -7.28500 36.76420 4.79320
+			vertex -8.15500 36.05660 4.69630
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 42.16100 67.35790 10.25690
+			vertex 42.46300 66.27370 10.27470
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 42.46300 66.27370 10.27470
+			vertex 43.26700 65.48650 10.32400
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 43.63600 35.00590 10.31750
+			vertex 42.85000 34.20110 10.26780
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 44.71800 35.30930 10.38520
+			vertex 43.63600 35.00590 10.31750
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 45.80700 35.02990 10.45280
+			vertex 44.71800 35.30930 10.38520
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 44.30700 69.55680 10.39270
+			vertex 43.22500 69.25340 10.32510
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 43.67800 31.23890 10.31650
+			vertex 44.76600 30.95950 10.38400
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 46.22300 66.31530 10.50900
+			vertex 46.50200 67.40600 10.52740
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 46.50200 67.40600 10.52740
+			vertex 46.19900 68.49020 10.50960
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 46.19900 68.49020 10.50960
+			vertex 45.39600 69.27750 10.46030
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 43.26700 65.48650 10.32400
+			vertex 44.35500 65.20710 10.39160
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 44.35500 65.20710 10.39160
+			vertex 45.43700 65.51050 10.45920
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 45.43700 65.51050 10.45920
+			vertex 46.22300 66.31530 10.50900
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 42.85000 34.20110 10.26780
+			vertex 42.57200 33.11040 10.24940
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 42.57200 33.11040 10.24940
+			vertex 42.87400 32.02620 10.26720
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 42.87400 32.02620 10.26720
+			vertex 43.67800 31.23890 10.31650
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 44.76600 30.95950 10.38400
+			vertex 45.84800 31.26290 10.45170
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 45.84800 31.26290 10.45170
+			vertex 46.63400 32.06780 10.50140
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 46.63400 32.06780 10.50140
+			vertex 46.91300 33.15840 10.51980
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 46.91300 33.15840 10.51980
+			vertex 46.61000 34.24260 10.50200
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 46.61000 34.24260 10.50200
+			vertex 45.80700 35.02990 10.45280
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 45.39600 69.27750 10.46030
+			vertex 44.30700 69.55680 10.39270
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 42.43900 68.44860 10.27530
+			vertex 42.16100 67.35790 10.25690
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanifold
+			vertex 43.22500 69.25340 10.32510
+			vertex 42.43900 68.44860 10.27530
+		color 0xffff00
+edgeend 
+edgestart 
+	type nonmanfold2
+			vertex 21.33800 -57.34600 101.35230
+			vertex 26.87400 -64.67010 100.57690
+		color 0x0000ff
+edgeend 
+edgestart 
+	type nonmanfold2
+			vertex 26.87400 -64.67010 100.57690
+			vertex 21.56000 -56.81690 102.32120
+		color 0x0000ff
+edgeend 
+edgestart 
+	type nonmanfold2
+			vertex -43.71100 -23.43230 69.67580
+			vertex -48.45700 -16.76150 71.20170
+		color 0x0000ff
+edgeend 
+edgestart 
+	type nonmanfold2
+			vertex -8.85600 44.57930 46.44270
+			vertex -24.91300 6.03990 45.48570
+		color 0x0000ff
+edgeend 
+edgestart 
+	type nonmanfold2
+			vertex -5.53600 32.78860 5.03450
+			vertex -9.04000 25.46990 4.68300
+		color 0x0000ff
+edgeend 
+endsolid exported

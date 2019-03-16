@@ -1,0 +1,749 @@
+{
+    "documentMicroversion" : "9d388c89ce29fde47423fec6",
+    "bodies" : [ {
+      "id" : "JHD",
+      "type" : "solid",
+      "faces" : [ {
+        "id" : "JMC",
+        "orientation" : true,
+        "area" : 0.005929892334979134,
+        "loops" : [ {
+          "type" : "outer",
+          "coedges" : [ {
+            "edgeId" : "JIJ",
+            "orientation" : false
+          }, {
+            "edgeId" : "JIV",
+            "orientation" : true
+          }, {
+            "edgeId" : "JIN",
+            "orientation" : true
+          }, {
+            "edgeId" : "KHFB",
+            "orientation" : true
+          }, {
+            "edgeId" : "JH1",
+            "orientation" : false
+          }, {
+            "edgeId" : "JH9",
+            "orientation" : true
+          } ]
+        }, {
+          "type" : "other",
+          "coedges" : [ {
+            "edgeId" : "JMB",
+            "orientation" : true
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ -0.05000000000000001, -0.035000000000000045, 0.02 ],
+          "maxCorner" : [ 0.04, 0.03500000000000001, 0.02 ]
+        },
+        "surface" : {
+          "type" : "plane",
+          "origin" : [ 0.0, -2.0816681711721685E-17, 0.02 ],
+          "normal" : [ 0.0, 0.0, 1.0 ]
+        }
+      }, {
+        "id" : "JIG",
+        "orientation" : true,
+        "area" : 0.0017500000000000003,
+        "loops" : [ {
+          "type" : "outer",
+          "coedges" : [ {
+            "edgeId" : "JIB",
+            "orientation" : false
+          }, {
+            "edgeId" : "JIR",
+            "orientation" : true
+          }, {
+            "edgeId" : "JIJ",
+            "orientation" : true
+          }, {
+            "edgeId" : "JHF",
+            "orientation" : true
+          }, {
+            "edgeId" : "JHZ",
+            "orientation" : false
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ -0.04000000000000001, -0.035000000000000045, 0.0 ],
+          "maxCorner" : [ 0.05, -0.03500000000000003, 0.02 ]
+        },
+        "surface" : {
+          "type" : "plane",
+          "origin" : [ 0.0049999999999999975, -0.03500000000000004, 0.02 ],
+          "normal" : [ 1.5419764230904951E-16, -1.0, 0.0 ]
+        }
+      }, {
+        "id" : "JIS",
+        "orientation" : false,
+        "area" : 7.000000000000003E-4,
+        "loops" : [ {
+          "type" : "outer",
+          "coedges" : [ {
+            "edgeId" : "JIF",
+            "orientation" : false
+          }, {
+            "edgeId" : "JId",
+            "orientation" : true
+          }, {
+            "edgeId" : "JIB",
+            "orientation" : true
+          }, {
+            "edgeId" : "JHp",
+            "orientation" : true
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ 0.049999999999999975, -0.03500000000000003, 0.0 ],
+          "maxCorner" : [ 0.05, 0.035, 0.01 ]
+        },
+        "surface" : {
+          "type" : "plane",
+          "origin" : [ 0.05, -2.7755575615628914E-17, 0.02 ],
+          "normal" : [ -1.0, 0.0, 0.0 ]
+        }
+      }, {
+        "id" : "JIO",
+        "orientation" : false,
+        "area" : 0.0017499999999999992,
+        "loops" : [ {
+          "type" : "outer",
+          "coedges" : [ {
+            "edgeId" : "JIN",
+            "orientation" : false
+          }, {
+            "edgeId" : "JIZ",
+            "orientation" : true
+          }, {
+            "edgeId" : "JIF",
+            "orientation" : true
+          }, {
+            "edgeId" : "JHh",
+            "orientation" : true
+          }, {
+            "edgeId" : "JHN",
+            "orientation" : false
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ -0.03999999999999998, 0.035, 0.0 ],
+          "maxCorner" : [ 0.049999999999999975, 0.035, 0.02 ]
+        },
+        "surface" : {
+          "type" : "plane",
+          "origin" : [ 0.0049999999999999975, 0.035, 0.02 ],
+          "normal" : [ 0.0, -1.0, 0.0 ]
+        }
+      }, {
+        "id" : "JHe",
+        "orientation" : true,
+        "area" : 3.1415926535898E-4,
+        "loops" : [ {
+          "type" : "outer",
+          "coedges" : [ {
+            "edgeId" : "KHBB",
+            "orientation" : true
+          }, {
+            "edgeId" : "JHV",
+            "orientation" : false
+          }, {
+            "edgeId" : "KHFB",
+            "orientation" : false
+          }, {
+            "edgeId" : "JHN",
+            "orientation" : true
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ -0.05, 0.024999999999999994, 0.0 ],
+          "maxCorner" : [ -0.03999999999999998, 0.03500000000000001, 0.02 ]
+        },
+        "surface" : {
+          "type" : "cylinder",
+          "origin" : [ -0.039999999999999994, 0.02500000000000001, 0.02 ],
+          "axis" : [ 0.0, 0.0, -1.0 ],
+          "radius" : 0.010000000000000002
+        }
+      }, {
+        "id" : "JHW",
+        "orientation" : true,
+        "area" : 0.0010000000000000007,
+        "loops" : [ {
+          "type" : "outer",
+          "coedges" : [ {
+            "edgeId" : "JHx",
+            "orientation" : false
+          }, {
+            "edgeId" : "JHR",
+            "orientation" : false
+          }, {
+            "edgeId" : "JH1",
+            "orientation" : true
+          }, {
+            "edgeId" : "JHV",
+            "orientation" : true
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ -0.05, -0.025000000000000043, 0.0 ],
+          "maxCorner" : [ -0.05, 0.024999999999999994, 0.02 ]
+        },
+        "surface" : {
+          "type" : "plane",
+          "origin" : [ -0.05, -2.42861286636753E-17, 0.02 ],
+          "normal" : [ -1.0, 0.0, 0.0 ]
+        }
+      }, {
+        "id" : "JHa",
+        "orientation" : true,
+        "area" : 3.141592653589792E-4,
+        "loops" : [ {
+          "type" : "outer",
+          "coedges" : [ {
+            "edgeId" : "JH5",
+            "orientation" : true
+          }, {
+            "edgeId" : "JHF",
+            "orientation" : false
+          }, {
+            "edgeId" : "JH9",
+            "orientation" : false
+          }, {
+            "edgeId" : "JHR",
+            "orientation" : true
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ -0.05000000000000001, -0.035000000000000045, 0.0 ],
+          "maxCorner" : [ -0.04000000000000001, -0.025000000000000043, 0.02 ]
+        },
+        "surface" : {
+          "type" : "cylinder",
+          "origin" : [ -0.039999999999999994, -0.025000000000000033, 0.02 ],
+          "axis" : [ 0.0, 0.0, -1.0 ],
+          "radius" : 0.010000000000000014
+        }
+      }, {
+        "id" : "JHG",
+        "orientation" : false,
+        "area" : 0.006957079632679493,
+        "loops" : [ {
+          "type" : "outer",
+          "coedges" : [ {
+            "edgeId" : "JHZ",
+            "orientation" : true
+          }, {
+            "edgeId" : "JH5",
+            "orientation" : false
+          }, {
+            "edgeId" : "JHx",
+            "orientation" : true
+          }, {
+            "edgeId" : "KHBB",
+            "orientation" : false
+          }, {
+            "edgeId" : "JHh",
+            "orientation" : false
+          }, {
+            "edgeId" : "JHp",
+            "orientation" : false
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ -0.05000000000000001, -0.035000000000000045, 0.0 ],
+          "maxCorner" : [ 0.05, 0.03500000000000001, 0.0 ]
+        },
+        "surface" : {
+          "type" : "plane",
+          "origin" : [ 0.0, -2.0816681711721685E-17, 0.0 ],
+          "normal" : [ 0.0, 0.0, 1.0 ]
+        }
+      }, {
+        "id" : "JIC",
+        "orientation" : true,
+        "area" : 9.899494936611666E-4,
+        "loops" : [ {
+          "type" : "outer",
+          "coedges" : [ {
+            "edgeId" : "JIR",
+            "orientation" : false
+          }, {
+            "edgeId" : "JId",
+            "orientation" : false
+          }, {
+            "edgeId" : "JIZ",
+            "orientation" : false
+          }, {
+            "edgeId" : "JIV",
+            "orientation" : false
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ 0.04, -0.03500000000000003, 0.01 ],
+          "maxCorner" : [ 0.05, 0.035, 0.02 ]
+        },
+        "surface" : {
+          "type" : "plane",
+          "origin" : [ 0.04, -2.0816681711721685E-17, 0.02 ],
+          "normal" : [ 0.7071067811865475, 0.0, 0.7071067811865476 ]
+        }
+      }, {
+        "id" : "JLC",
+        "orientation" : true,
+        "area" : 0.0017036809875216016,
+        "loops" : [ {
+          "type" : "other",
+          "coedges" : [ {
+            "edgeId" : "JLF",
+            "orientation" : true
+          } ]
+        }, {
+          "type" : "other",
+          "coedges" : [ {
+            "edgeId" : "JMB",
+            "orientation" : false
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ -0.01242347613071067, -0.010106617234236417, 0.019999999999999997 ],
+          "maxCorner" : [ 0.010447450530487686, 0.0119786497618492, 0.045000000000000005 ]
+        },
+        "surface" : {
+          "type" : "extruded",
+          "axis" : [ 0.0, 0.0, -1.0 ]
+        }
+      }, {
+        "id" : "JLK",
+        "orientation" : true,
+        "area" : 3.2718729439934957E-4,
+        "loops" : [ {
+          "type" : "outer",
+          "coedges" : [ {
+            "edgeId" : "JLF",
+            "orientation" : false
+          } ]
+        } ],
+        "box" : {
+          "minCorner" : [ -0.01242347613071067, -0.010106617234236417, 0.045 ],
+          "maxCorner" : [ 0.010447450530487686, 0.0119786497618492, 0.045 ]
+        },
+        "surface" : {
+          "type" : "plane",
+          "origin" : [ -0.0050000000000000044, -1.3877787807814457E-17, 0.045 ],
+          "normal" : [ 0.0, 0.0, 1.0 ]
+        }
+      } ],
+      "edges" : [ {
+        "id" : "JIR",
+        "geometry" : {
+          "startPoint" : [ 0.05, -0.03500000000000003, 0.010000000000000002 ],
+          "endPoint" : [ 0.04000000000000001, -0.03500000000000004, 0.02 ],
+          "midPoint" : [ 0.045000000000000005, -0.03500000000000003, 0.015 ],
+          "quarterPoint" : [ 0.04750000000000001, -0.03500000000000003, 0.012499999999999997 ],
+          "startVector" : [ -0.7071067811865476, -1.090341985197066E-16, 0.7071067811865475 ],
+          "endVector" : [ -0.7071067811865476, -1.090341985197066E-16, 0.7071067811865475 ],
+          "length" : 0.014142135623730952
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JIE", "II" ]
+      }, {
+        "id" : "JId",
+        "geometry" : {
+          "startPoint" : [ 0.05, 0.035, 0.01 ],
+          "endPoint" : [ 0.05, -0.03500000000000003, 0.01 ],
+          "midPoint" : [ 0.05, -1.3877787807814457E-17, 0.01 ],
+          "quarterPoint" : [ 0.05, 0.017499999999999995, 0.01 ],
+          "startVector" : [ 0.0, -1.0, 0.0 ],
+          "endVector" : [ 0.0, -1.0, 0.0 ],
+          "length" : 0.07000000000000003
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JIM", "JIE" ]
+      }, {
+        "id" : "JIZ",
+        "geometry" : {
+          "startPoint" : [ 0.04, 0.035, 0.02 ],
+          "endPoint" : [ 0.04999999999999999, 0.035, 0.010000000000000014 ],
+          "midPoint" : [ 0.045, 0.035, 0.015000000000000006 ],
+          "quarterPoint" : [ 0.042499999999999996, 0.035, 0.017500000000000005 ],
+          "startVector" : [ 0.7071067811865476, 0.0, -0.7071067811865475 ],
+          "endVector" : [ 0.7071067811865476, 0.0, -0.7071067811865475 ],
+          "length" : 0.014142135623730933
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JII", "JIM" ]
+      }, {
+        "id" : "JIV",
+        "geometry" : {
+          "startPoint" : [ 0.04, -0.03500000000000003, 0.02 ],
+          "endPoint" : [ 0.04, 0.035, 0.02 ],
+          "midPoint" : [ 0.04, -1.3877787807814457E-17, 0.02 ],
+          "quarterPoint" : [ 0.04, -0.017500000000000022, 0.02 ],
+          "startVector" : [ 0.0, 1.0, 0.0 ],
+          "endVector" : [ 0.0, 1.0, 0.0 ],
+          "length" : 0.07000000000000003
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "II", "JII" ]
+      }, {
+        "id" : "JIB",
+        "geometry" : {
+          "startPoint" : [ 0.05, -0.03500000000000003, 0.01 ],
+          "endPoint" : [ 0.05, -0.03500000000000003, 0.0 ],
+          "midPoint" : [ 0.05, -0.03500000000000003, 0.005000000000000001 ],
+          "quarterPoint" : [ 0.05, -0.03500000000000003, 0.0075 ],
+          "startVector" : [ 0.0, 0.0, -1.0 ],
+          "endVector" : [ 0.0, 0.0, -1.0 ],
+          "length" : 0.01
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JIE", "IH" ]
+      }, {
+        "id" : "JIF",
+        "geometry" : {
+          "startPoint" : [ 0.049999999999999975, 0.035, 0.01 ],
+          "endPoint" : [ 0.049999999999999975, 0.035, 0.0 ],
+          "midPoint" : [ 0.049999999999999975, 0.035, 0.005000000000000001 ],
+          "quarterPoint" : [ 0.049999999999999975, 0.035, 0.0075 ],
+          "startVector" : [ 0.0, 0.0, -1.0 ],
+          "endVector" : [ 0.0, 0.0, -1.0 ],
+          "length" : 0.01
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JIM", "JHQ" ]
+      }, {
+        "id" : "JHN",
+        "geometry" : {
+          "startPoint" : [ -0.03999999999999998, 0.035, 0.02 ],
+          "endPoint" : [ -0.03999999999999998, 0.035, 0.0 ],
+          "midPoint" : [ -0.03999999999999998, 0.035, 0.01 ],
+          "quarterPoint" : [ -0.03999999999999998, 0.035, 0.015 ],
+          "startVector" : [ 0.0, 0.0, -1.0 ],
+          "endVector" : [ 0.0, 0.0, -1.0 ],
+          "length" : 0.02
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JHc", "JHY" ]
+      }, {
+        "id" : "JHV",
+        "geometry" : {
+          "startPoint" : [ -0.05, 0.024999999999999994, 0.02 ],
+          "endPoint" : [ -0.05, 0.024999999999999994, 0.0 ],
+          "midPoint" : [ -0.05, 0.024999999999999994, 0.01 ],
+          "quarterPoint" : [ -0.05, 0.024999999999999994, 0.015 ],
+          "startVector" : [ 0.0, 0.0, -1.0 ],
+          "endVector" : [ 0.0, 0.0, -1.0 ],
+          "length" : 0.02
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JHs", "JHo" ]
+      }, {
+        "id" : "JHR",
+        "geometry" : {
+          "startPoint" : [ -0.05, -0.025000000000000043, 0.02 ],
+          "endPoint" : [ -0.05, -0.025000000000000043, 0.0 ],
+          "midPoint" : [ -0.05, -0.025000000000000043, 0.01 ],
+          "quarterPoint" : [ -0.05, -0.025000000000000043, 0.015 ],
+          "startVector" : [ 0.0, 0.0, -1.0 ],
+          "endVector" : [ 0.0, 0.0, -1.0 ],
+          "length" : 0.02
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JHk", "JHg" ]
+      }, {
+        "id" : "JHF",
+        "geometry" : {
+          "startPoint" : [ -0.04000000000000001, -0.035000000000000045, 0.02 ],
+          "endPoint" : [ -0.04000000000000001, -0.035000000000000045, 0.0 ],
+          "midPoint" : [ -0.04000000000000001, -0.035000000000000045, 0.01 ],
+          "quarterPoint" : [ -0.04000000000000001, -0.035000000000000045, 0.015 ],
+          "startVector" : [ 0.0, 0.0, -1.0 ],
+          "endVector" : [ 0.0, 0.0, -1.0 ],
+          "length" : 0.02
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JHM", "JHI" ]
+      }, {
+        "id" : "JH9",
+        "geometry" : {
+          "startPoint" : [ -0.05000000000000001, -0.02500000000000004, 0.02 ],
+          "endPoint" : [ -0.040000000000000015, -0.035000000000000045, 0.02 ],
+          "midPoint" : [ -0.047071067811865486, -0.032071067811865514, 0.02 ],
+          "quarterPoint" : [ -0.04923879532511287, -0.02882683432365094, 0.02 ],
+          "startVector" : [ 6.938893903907218E-16, -1.0, 0.0 ],
+          "endVector" : [ 1.0, -2.0816681711721658E-15, 0.0 ],
+          "length" : 0.01570796326794896,
+          "arcSweep" : 1.570796326794894,
+          "arcIsCW" : false
+        },
+        "curve" : {
+          "type" : "circle",
+          "origin" : [ -0.039999999999999994, -0.025000000000000033, 0.02 ],
+          "normal" : [ 0.0, 0.0, 1.0 ],
+          "radius" : 0.010000000000000014
+        },
+        "vertices" : [ "JHk", "JHM" ]
+      }, {
+        "id" : "JH1",
+        "geometry" : {
+          "startPoint" : [ -0.05, -0.025000000000000043, 0.02 ],
+          "endPoint" : [ -0.05, 0.024999999999999994, 0.02 ],
+          "midPoint" : [ -0.05, -2.42861286636753E-17, 0.02 ],
+          "quarterPoint" : [ -0.05, -0.012500000000000034, 0.02 ],
+          "startVector" : [ 0.0, 1.0, 0.0 ],
+          "endVector" : [ 0.0, 1.0, 0.0 ],
+          "length" : 0.05000000000000004
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JHk", "JHs" ]
+      }, {
+        "id" : "KHFB",
+        "geometry" : {
+          "startPoint" : [ -0.03999999999999998, 0.03500000000000001, 0.02 ],
+          "endPoint" : [ -0.049999999999999996, 0.024999999999999998, 0.02 ],
+          "midPoint" : [ -0.04707106781186547, 0.032071067811865486, 0.02 ],
+          "quarterPoint" : [ -0.043826834323650886, 0.034238795325112883, 0.02 ],
+          "startVector" : [ -1.0, 1.3877787807814455E-15, 0.0 ],
+          "endVector" : [ 1.040834085586084E-15, -1.0, 0.0 ],
+          "length" : 0.015707963267948995,
+          "arcSweep" : 1.5707963267948992,
+          "arcIsCW" : false
+        },
+        "curve" : {
+          "type" : "circle",
+          "origin" : [ -0.039999999999999994, 0.02500000000000001, 0.02 ],
+          "normal" : [ 0.0, 0.0, 1.0 ],
+          "radius" : 0.010000000000000002
+        },
+        "vertices" : [ "JHc", "JHs" ]
+      }, {
+        "id" : "JIN",
+        "geometry" : {
+          "startPoint" : [ 0.04, 0.035, 0.02 ],
+          "endPoint" : [ -0.03999999999999998, 0.035, 0.02 ],
+          "midPoint" : [ 1.0408340855860843E-17, 0.035, 0.02 ],
+          "quarterPoint" : [ 0.020000000000000004, 0.035, 0.02 ],
+          "startVector" : [ -1.0, 0.0, 0.0 ],
+          "endVector" : [ -1.0, 0.0, 0.0 ],
+          "length" : 0.07999999999999999
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JII", "JHc" ]
+      }, {
+        "id" : "JIJ",
+        "geometry" : {
+          "startPoint" : [ 0.04, -0.03500000000000003, 0.02 ],
+          "endPoint" : [ -0.04000000000000001, -0.035000000000000045, 0.02 ],
+          "midPoint" : [ -3.469446951953614E-18, -0.03500000000000004, 0.02 ],
+          "quarterPoint" : [ 0.019999999999999997, -0.03500000000000004, 0.02 ],
+          "startVector" : [ -1.0, -1.5419764230904951E-16, 0.0 ],
+          "endVector" : [ -1.0, -1.5419764230904951E-16, 0.0 ],
+          "length" : 0.08000000000000002
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "II", "JHM" ]
+      }, {
+        "id" : "JH5",
+        "geometry" : {
+          "startPoint" : [ -0.05000000000000001, -0.02500000000000004, 0.0 ],
+          "endPoint" : [ -0.040000000000000015, -0.035000000000000045, 0.0 ],
+          "midPoint" : [ -0.047071067811865486, -0.032071067811865514, 0.0 ],
+          "quarterPoint" : [ -0.04923879532511287, -0.02882683432365094, 0.0 ],
+          "startVector" : [ 6.938893903907218E-16, -1.0, 0.0 ],
+          "endVector" : [ 1.0, -2.0816681711721658E-15, 0.0 ],
+          "length" : 0.01570796326794896,
+          "arcSweep" : 1.570796326794894,
+          "arcIsCW" : false
+        },
+        "curve" : {
+          "type" : "circle",
+          "origin" : [ -0.039999999999999994, -0.025000000000000033, 0.0 ],
+          "normal" : [ 0.0, 0.0, 1.0 ],
+          "radius" : 0.010000000000000014
+        },
+        "vertices" : [ "JHg", "JHI" ]
+      }, {
+        "id" : "JHx",
+        "geometry" : {
+          "startPoint" : [ -0.05, -0.025000000000000043, 0.0 ],
+          "endPoint" : [ -0.05, 0.024999999999999994, 0.0 ],
+          "midPoint" : [ -0.05, -2.42861286636753E-17, 0.0 ],
+          "quarterPoint" : [ -0.05, -0.012500000000000034, 0.0 ],
+          "startVector" : [ 0.0, 1.0, 0.0 ],
+          "endVector" : [ 0.0, 1.0, 0.0 ],
+          "length" : 0.05000000000000004
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JHg", "JHo" ]
+      }, {
+        "id" : "KHBB",
+        "geometry" : {
+          "startPoint" : [ -0.03999999999999998, 0.03500000000000001, 0.0 ],
+          "endPoint" : [ -0.049999999999999996, 0.024999999999999998, 0.0 ],
+          "midPoint" : [ -0.04707106781186547, 0.032071067811865486, 0.0 ],
+          "quarterPoint" : [ -0.043826834323650886, 0.034238795325112883, 0.0 ],
+          "startVector" : [ -1.0, 1.3877787807814455E-15, 0.0 ],
+          "endVector" : [ 1.040834085586084E-15, -1.0, 0.0 ],
+          "length" : 0.015707963267948995,
+          "arcSweep" : 1.5707963267948992,
+          "arcIsCW" : false
+        },
+        "curve" : {
+          "type" : "circle",
+          "origin" : [ -0.039999999999999994, 0.02500000000000001, 0.0 ],
+          "normal" : [ 0.0, 0.0, 1.0 ],
+          "radius" : 0.010000000000000002
+        },
+        "vertices" : [ "JHY", "JHo" ]
+      }, {
+        "id" : "JHh",
+        "geometry" : {
+          "startPoint" : [ 0.049999999999999975, 0.035, 0.0 ],
+          "endPoint" : [ -0.03999999999999998, 0.035, 0.0 ],
+          "midPoint" : [ 0.0049999999999999975, 0.035, 0.0 ],
+          "quarterPoint" : [ 0.027499999999999986, 0.035, 0.0 ],
+          "startVector" : [ -1.0, 0.0, 0.0 ],
+          "endVector" : [ -1.0, 0.0, 0.0 ],
+          "length" : 0.08999999999999996
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "JHQ", "JHY" ]
+      }, {
+        "id" : "JHp",
+        "geometry" : {
+          "startPoint" : [ 0.05, -0.03500000000000003, 0.0 ],
+          "endPoint" : [ 0.05, 0.035, 0.0 ],
+          "midPoint" : [ 0.05, -1.3877787807814457E-17, 0.0 ],
+          "quarterPoint" : [ 0.05, -0.017500000000000022, 0.0 ],
+          "startVector" : [ 0.0, 1.0, 0.0 ],
+          "endVector" : [ 0.0, 1.0, 0.0 ],
+          "length" : 0.07000000000000003
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "IH", "JHQ" ]
+      }, {
+        "id" : "JHZ",
+        "geometry" : {
+          "startPoint" : [ 0.05, -0.03500000000000003, 0.0 ],
+          "endPoint" : [ -0.04000000000000001, -0.035000000000000045, 0.0 ],
+          "midPoint" : [ 0.0049999999999999975, -0.03500000000000004, 0.0 ],
+          "quarterPoint" : [ 0.0275, -0.03500000000000003, 0.0 ],
+          "startVector" : [ -1.0, -1.5419764230904951E-16, 0.0 ],
+          "endVector" : [ -1.0, -1.5419764230904951E-16, 0.0 ],
+          "length" : 0.09000000000000001
+        },
+        "curve" : {
+          "type" : "line"
+        },
+        "vertices" : [ "IH", "JHI" ]
+      }, {
+        "id" : "JLF",
+        "geometry" : {
+          "startPoint" : [ -0.012344726361334324, 0.004311987198889255, 0.045 ],
+          "endPoint" : [ -0.012344726361334324, 0.004311987198889255, 0.045 ],
+          "midPoint" : [ 0.010254036920468234, -0.0048155991597969, 0.045 ],
+          "quarterPoint" : [ 0.0010136838243381507, 0.010990052102409418, 0.045 ],
+          "startVector" : [ -0.04246927286286278, 0.9990977734248534, 0.0 ],
+          "endVector" : [ -0.04246927286286309, 0.9990977734248535, 0.0 ],
+          "length" : 0.06814723474788839
+        },
+        "curve" : {
+          "type" : "bcurve"
+        },
+        "vertices" : [ ]
+      }, {
+        "id" : "JMB",
+        "geometry" : {
+          "startPoint" : [ -0.012344726361334324, 0.004311987198889255, 0.02 ],
+          "endPoint" : [ -0.012344726361334324, 0.004311987198889255, 0.02 ],
+          "midPoint" : [ 0.010254036920468234, -0.0048155991597969, 0.02 ],
+          "quarterPoint" : [ 0.0010136838243381507, 0.010990052102409418, 0.02 ],
+          "startVector" : [ -0.04246927286286278, 0.9990977734248534, 0.0 ],
+          "endVector" : [ -0.04246927286286309, 0.9990977734248535, 0.0 ],
+          "length" : 0.06814723474788839
+        },
+        "curve" : {
+          "type" : "bcurve"
+        },
+        "vertices" : [ ]
+      } ],
+      "vertices" : [ {
+        "id" : "JIE",
+        "point" : [ 0.05, -0.03500000000000003, 0.01 ]
+      }, {
+        "id" : "JIM",
+        "point" : [ 0.049999999999999975, 0.035, 0.01 ]
+      }, {
+        "id" : "JII",
+        "point" : [ 0.04, 0.035, 0.02 ]
+      }, {
+        "id" : "II",
+        "point" : [ 0.04, -0.03500000000000003, 0.02 ]
+      }, {
+        "id" : "JHM",
+        "point" : [ -0.04000000000000001, -0.035000000000000045, 0.02 ]
+      }, {
+        "id" : "JHk",
+        "point" : [ -0.05, -0.025000000000000043, 0.02 ]
+      }, {
+        "id" : "JHs",
+        "point" : [ -0.05, 0.024999999999999994, 0.02 ]
+      }, {
+        "id" : "JHc",
+        "point" : [ -0.03999999999999998, 0.035, 0.02 ]
+      }, {
+        "id" : "JHI",
+        "point" : [ -0.04000000000000001, -0.035000000000000045, 0.0 ]
+      }, {
+        "id" : "JHg",
+        "point" : [ -0.05, -0.025000000000000043, 0.0 ]
+      }, {
+        "id" : "JHo",
+        "point" : [ -0.05, 0.024999999999999994, 0.0 ]
+      }, {
+        "id" : "JHY",
+        "point" : [ -0.03999999999999998, 0.035, 0.0 ]
+      }, {
+        "id" : "JHQ",
+        "point" : [ 0.049999999999999975, 0.035, 0.0 ]
+      }, {
+        "id" : "IH",
+        "point" : [ 0.05, -0.03500000000000003, 0.0 ]
+      } ]
+    } ]
+  }
